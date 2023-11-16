@@ -61,6 +61,5 @@ if start:
         st.dataframe(pred_prob, use_container_width=True)
 
 
-else:
-    with st.expander("**Current parameters and predict result**", True):
+
 
