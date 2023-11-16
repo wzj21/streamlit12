@@ -4,3 +4,4 @@ streamlit
 xgboost
 scikit-learn
 openpyxl
+catboost
