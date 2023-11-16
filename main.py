@@ -13,7 +13,7 @@ st.sidebar.warning('For CRRT, 0 represents no disease; 1 indicates the presence 
 st.info('#### Prognostic model for sepsis combined with hypoproteinemia')
 
 
-model_file = "Stacking.pkl"  # 在这里使用你的模型文件
+model_file = "Stacking.pkl"  
 
 
 val = pd.read_excel("变量范围.xlsx").T
